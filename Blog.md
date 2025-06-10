@@ -1,20 +1,20 @@
 # Dev16 Blog Platform
 
-A robust, cloud-native blog platform featuring secure administration, scalable architecture, and modern development best practices.
+A robust, cloud-native blog platform featuring secure administration, scalable architecture, and modern development  techniques
 
 ---
 
 ## Overview
 
-**Dev16 Blog** is a full-featured content management system designed for professional blogging and seamless content delivery. The platform leverages a decoupled architecture, enabling independent scaling and deployment of frontend and backend services.
+**Dev16 Blog** is a full-featured content management system designed for professional blogging and seamless content delivery. The platform isfocused  on   <Strong>scaling</Strong>
 
 ---
 
 ## System Architecture
 
-- **Frontend:** Deployed on [Firebase Hosting](https://firebase.google.com/products/hosting) for global CDN-backed delivery and SSL.
-- **Backend:** Hosted on [Render](https://render.com/) for scalable REST API services.
-- **Database:** Managed MySQL instance provisioned via [Aiven Cloud](https://aiven.io/).
+- **Frontend:** Deployed on Firebase 
+- **Backend:** Hosted on Render for scalable REST API services.
+- **Database:** Managed MySQL instance provisioned via Aiven Cloud
 
 **Architecture Diagram:**
 
@@ -82,10 +82,6 @@ A robust, cloud-native blog platform featuring secure administration, scalable a
 
 ---
 
-## Best Practices & Notes
-
-- **Security:** All API endpoints are protected via JWT and CORS policies.
-- **Reliability:** Cloud-managed services ensure high availability and automated failover.
-- **Cold Starts:** Free-tier hosting may introduce initial latency due to container cold starts.
+- Curious to know more about me visit here : [🌐](https://moneshgomo.netlify.web.app)
 
 ---
