@@ -40,7 +40,7 @@ A robust, cloud-native blog platform featuring secure administration, scalable a
 
 | Component       | Technology                        |
 |-----------------|-----------------------------------|
-| Framework       | React (SPA)                       |
+| Languages       | HTML,CSS, Javascript                       |
 | Hosting         | Firebase Hosting                  |
 | Domain          | [Here](https://dev16-blog.web.app) |
 
